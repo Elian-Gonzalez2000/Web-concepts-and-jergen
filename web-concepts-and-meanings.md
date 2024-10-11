@@ -11,3 +11,5 @@
 - Routing based to file system: File-based routing is a way to configure your routes using the filesystem.
 
 - Single page application (SPA): a website or web application that dynamically rewrites a current web page with new data from the web server, instead of the default method of a web browser loading entire new pages.
+
+- DRY: Don't Repeat Yourself.
