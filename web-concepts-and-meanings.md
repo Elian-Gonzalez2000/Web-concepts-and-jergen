@@ -13,3 +13,5 @@
 - Single page application (SPA): a website or web application that dynamically rewrites a current web page with new data from the web server, instead of the default method of a web browser loading entire new pages.
 
 - DRY: Don't Repeat Yourself.
+
+- Debounce in search: Is a delay between when the user is typing
