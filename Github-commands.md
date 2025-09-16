@@ -18,6 +18,8 @@
 
 - git branch <nameBranch>: List all branches in the repository
 
+- git restore --staged <file>: Clean the working directory (staging)
+
 ## Remember console commands
 
 - rm -rf node_modules package-lock.json
